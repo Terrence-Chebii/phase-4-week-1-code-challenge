@@ -1,4 +1,3 @@
-# Seed data for Pizzas
 puts "seeding!"
 pizza_data = [
   { name: "Margherita", ingredients: "Tomato, Mozzarella, Basil" },

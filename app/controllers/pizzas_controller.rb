@@ -1,6 +1,6 @@
 class PizzasController < ApplicationController
     def index
-        pizzas = Pizza.ApplicationControllerp
+        pizzas = Pizza.all
         render json: pizzas
     end
 end
